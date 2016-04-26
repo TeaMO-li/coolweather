@@ -30,12 +30,5 @@ public class Province {
 	public void setProvinceCode(String provinceCode){
 		this.provinceCode = provinceCode;
 	}
-	/**
-	 * @param args
-	 */
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
-
+	
 }
